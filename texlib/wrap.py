@@ -42,7 +42,7 @@ import sys
 
 __version__ = "1.01"
 
-INFINITY = 1000
+INFINITY = float('inf')
 
 # Three classes defining the three different types of object that
 # can go into an ObjectList.
